@@ -1,4 +1,5 @@
 # Blackjack AI
+## Check live demo here: [LIVE DEMO](https://ekefdymigdmagymd.vercel.app/)
 
 This is a simple Python project where an AI plays the classic card game **Blackjack** against a dealer. The AI uses a basic strategy to decide whether to "hit" or "stand" based on its current hand and the dealer's visible card.
 
